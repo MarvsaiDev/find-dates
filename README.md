@@ -1,4 +1,8 @@
-# Simple use Date and text parsing from pdf rtf and images (with use of call back function)
+
+install latest
+pip install auto-find-date-pdf
+
+# Simple use Date and text parsing from pdf, docx and rtf and images (with use of call back function)
 
 This is a simple package provided by Marvsai healthcare LTD. It can find any format regular dates in a str 
 as python Datetime objects.
