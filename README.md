@@ -1,6 +1,7 @@
 
-install latest
-pip install auto-find-date-pdf
+# install latest
+
+      pip install auto-find-date-pdf
 
 # Simple use Date and text parsing from pdf, docx and rtf and images (with use of call back function)
 
